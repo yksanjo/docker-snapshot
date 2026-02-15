@@ -1,0 +1,25 @@
+{
+  "name": "docker-snapshot",
+  "version": "1.0.0",
+  "description": "One-click Docker container state save/restore tool",
+  "main": "src/index.js",
+  "bin": {
+    "docker-snapshot": "./bin/docker-snapshot"
+  },
+  "scripts": {
+    "start": "node bin/docker-snapshot"
+  },
+  "keywords": [
+    "docker",
+    "snapshot",
+    "backup",
+    "container"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.2.0"
+  }
+}
