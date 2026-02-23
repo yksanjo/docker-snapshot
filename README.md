@@ -1,5 +1,12 @@
 # docker-snapshot
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/docker-snapshot/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/docker-snapshot/actions)
+![License](https://img.shields.io/github/license/yksanjo/docker-snapshot)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/docker-snapshot)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/docker-snapshot)
+
 ## Detailed Description
 
 docker-snapshot is maintained as an industry-grade software project with production-ready engineering practices.  
